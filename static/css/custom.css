@@ -10,8 +10,8 @@
   margin-right: 30px;
 }
 #table1 {
-  float: left;
-  display: inline;
+  float: none;
+  display: block;
   width: 49%;
   height: 430px;
   margin-left: 10px;
