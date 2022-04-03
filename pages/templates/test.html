@@ -8,7 +8,7 @@
     enctype="multipart/form-data"
     class="form-horizontal"
   >
-    <h2>Test Your Data</h2>
+    <h2><b>Test Your Data</b></h2>
     <br />
     {% csrf_token %}
     <div class="form-group">
@@ -117,7 +117,9 @@
       <strong>Error!</strong> The Level 1 should be greater than Level 2, and
       Level 2 should be greater than Level 3
     </div>
-    <button type="submit" id="run" class="btn btn-primary btn-lg">RUN</button>
+    <button type="submit" id="run" class="btn btn-primary btn-lg btn-block">
+      RUN
+    </button>
   </form>
 </div>
 <script>

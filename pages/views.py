@@ -7,6 +7,10 @@ import numpy as np
 
 def home(request):
     return render(request, "home.html", {})
+def about(request):
+    return render(request, "about.html", {})
+def signin(request):
+    return render(request, "signin.html", {})
 
 def dashboard(request):
     return render(request, "dashboard.html", {})
