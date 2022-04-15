@@ -9,6 +9,8 @@ def home(request):
     return render(request, "home.html", {})
 def about(request):
     return render(request, "about.html", {})
+def more_info(request):
+    return render(request, "more_info.html", {})
 def signin(request):
     return render(request, "signin.html", {})
 
