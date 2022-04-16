@@ -1,0 +1,7 @@
+python
+django
+numpy
+pandas
+nltk
+textblob 
+sklearn
