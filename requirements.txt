@@ -1,7 +1,7 @@
-python
-django
-numpy
-pandas
-nltk
-textblob 
-sklearn
+# python
+# django
+# numpy
+# pandas
+# nltk
+# textblob 
+# sklearn
