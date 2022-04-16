@@ -1,7 +1,8 @@
 # python
-# django
-# numpy
-# pandas
-# nltk
-# textblob 
-# sklearn
+gunicorn
+django
+numpy
+pandas
+nltk
+textblob 
+sklearn
