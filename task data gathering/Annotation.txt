@@ -1,0 +1,6 @@
+Annotation task
+
+Group member		Number of tweets annotated
+Ajinkya			400 + 300 + 300
+Pratik			100 + 400 + 300 + 300
+Abhishek		100 + 400 + 300 + 300

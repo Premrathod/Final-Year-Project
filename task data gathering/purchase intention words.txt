@@ -1,0 +1,37 @@
+purchase intention words
+
+PI
+--------------------
+purchase
+buy
+wish
+want
+need
+like
+love
+deal
+nice
+get
+cheap
+buy now
+Discount
+Affordable
+Best
+Cheapest
+--------------------
+
+No PI
+--------------------
+bad
+hate
+won't buy
+dislike
+don't buy
+boring
+useless
+not recommended
+not worth it
+--------------------
+
+
+
